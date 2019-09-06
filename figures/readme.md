@@ -22,39 +22,74 @@
 ### 
 sf
 efwr
+
+
 wef
+
 wf
+
 wef
+
 weg
+
 we
+
 g
 sg
+
 ds
+
 g
+
 ws
+
 gw
+
 g
+
 rw
+
 g
+
 rg
+
 r
+
 g
+
 g
+
 rw
+
 gw
+
 g
+
 w
+
 gr
+
 wg
+
 w
+
 gw
+
 rgw
+
 g
+
 -
 
 
+
+
+
 ### References
-1. <span id="jump">跳转到的地方</span>不同厂家的电脑进入bios的快捷键整理汇总 [[link]](https://blog.csdn.net/fengjunwang1980/article/details/51723149)
+
+1. <span id="jump">跳转到的地方</span>不同厂家的电脑进入bios的快捷键整理汇总 [[link]]
+(https://blog.csdn.net/fengjunwang1980/article/details/51723149)
+
 2. BIOS Setup Utility Access Keys for Popular Motherboards [[link]](https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-motherboards-2624462)
 3. [[link]]()
 4. [[link]]()
